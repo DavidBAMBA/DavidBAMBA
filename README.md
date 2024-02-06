@@ -3,7 +3,7 @@
 ## ✌ About Me
 - **Current Position:** Undergraduate physics student at Universidad Nacional de Colombia
 - **Research Interests:** Computational astrophysics, hydrodynamic simulations, accretion disks, celestial mechanics, numerical relativity.
-- **Get in Touch:** <janarvaez@unal.edu.co>
+- **Get in Touch:** <dbambague@unal.edu.co>
 
 ## 🖥 Languages
 
@@ -73,9 +73,9 @@
 </div><br>
 
 ## 📊 Statistics
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JackNarvaez&hide=jupyter%20notebook&layout=donut&theme=dracula&langs_count=6)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidBAMBA&hide=jupyter%20notebook&layout=donut&theme=dracula&langs_count=6)
 
-![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JackNarvaez&theme=github_dark)
+![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidBAMBA&theme=github_dark)
 <br>
 
 ## 🌟 Together We Shine
