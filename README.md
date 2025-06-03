@@ -1,8 +1,8 @@
 ## Hi there! 👋 welcome to my GitHub corner
 
 ## ✌ About Me
-- **Current Position:** Undergraduate physics student at Universidad Nacional de Colombia
-- **Research Interests:** Computational astrophysics, hydrodynamic simulations, accretion disks, celestial mechanics, numerical relativity.
+- **Current Position:** Master student of astronomy at Universidad Nacional de Colombia
+- **Research Interests:** Computational astrophysics, hydrodynamic simulations, accretion disks, Machine Learning, numerical relativity.
 - **Get in Touch:** <dbambague@unal.edu.co>
 
 ## 🖥 Languages
